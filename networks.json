@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "test_usdc": {
+      "address": "0x9B2660A7BEcd0Bf3d90401D1C214d2CD36317da5",
+      "startBlock": 1985150
+    }
+  }
+}
